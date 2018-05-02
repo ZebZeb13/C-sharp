@@ -1,0 +1,8 @@
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Library\bin\Debug\netstandard2.0\Isen.Cs.Library.deps.json
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Library\bin\Debug\netstandard2.0\Isen.Cs.Library.dll
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Library\bin\Debug\netstandard2.0\Isen.Cs.Library.pdb
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Library\obj\Debug\netstandard2.0\Isen.Cs.Library.csproj.CoreCompileInputs.cache
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Library\obj\Debug\netstandard2.0\Isen.Cs.Library.AssemblyInfoInputs.cache
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Library\obj\Debug\netstandard2.0\Isen.Cs.Library.AssemblyInfo.cs
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Library\obj\Debug\netstandard2.0\Isen.Cs.Library.dll
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Library\obj\Debug\netstandard2.0\Isen.Cs.Library.pdb

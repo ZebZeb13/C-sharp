@@ -1,0 +1,16 @@
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\bin\Debug\netcoreapp2.0\Isen.Cs.Test.deps.json
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\bin\Debug\netcoreapp2.0\Isen.Cs.Test.runtimeconfig.json
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\bin\Debug\netcoreapp2.0\Isen.Cs.Test.runtimeconfig.dev.json
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\bin\Debug\netcoreapp2.0\Isen.Cs.Test.dll
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\bin\Debug\netcoreapp2.0\Isen.Cs.Test.pdb
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\bin\Debug\netcoreapp2.0\Isen.Cs.Library.dll
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\bin\Debug\netcoreapp2.0\Isen.Cs.Library.pdb
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\obj\Debug\netcoreapp2.0\Isen.Cs.Test.csproj.CoreCompileInputs.cache
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\obj\Debug\netcoreapp2.0\Isen.Cs.Test.AssemblyInfoInputs.cache
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\obj\Debug\netcoreapp2.0\Isen.Cs.Test.AssemblyInfo.cs
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\obj\Debug\netcoreapp2.0\Isen.Cs.Test.csproj.CopyComplete
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\obj\Debug\netcoreapp2.0\Isen.Cs.Test.dll
+E:\Desktop\Cours\C#\Isen.Cs\Isen.Cs.Test\obj\Debug\netcoreapp2.0\Isen.Cs.Test.pdb
